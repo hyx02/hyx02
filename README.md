@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @hyx02
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning Deeplearning
-- 📫 How to reach me 2667207572@qq.com
 - ⚡ Enjoy our journey in AI
 
 <!---
